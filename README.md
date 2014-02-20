@@ -1,4 +1,4 @@
 LTP2-Natany
 ===========
 
-Atividades 
+Repositorio de Atividades Disciplina  : Linguagens Tecnicas de Programaçao II
